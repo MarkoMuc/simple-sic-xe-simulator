@@ -1,6 +1,6 @@
 ### Simple SIC/XE simulator
 This is a simple SIC/XE simulator as per standard defined in **System Software: An Introduction to Systems Programming by *Leland Beck***.
-Directory objs holds some assembled .obj files, to test on.
+Directory objs holds some assembled .obj files to test on.
 ## Overview
 Simulation options : Step or auto, print Memory dump and sleep time between instructions
 
